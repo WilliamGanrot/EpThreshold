@@ -28,4 +28,6 @@ public async Task<WeatherForecast> GetWeatherForecast(int id)
 }
 ```
 
+You can install the nuget here: https://www.nuget.org/packages/EpThreshold/1.0.0
+
         
